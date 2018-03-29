@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb441d0d-dfe6-406e-9b3d-bf964cd62d7e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/Category.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2018_03_29_105914_create_categories_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/15223219081472781731image_1.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php" />
       <change beforePath="$PROJECT_DIR$/app/Http/Requests/PostsCreateRequest.php" afterPath="$PROJECT_DIR$/app/Http/Requests/PostsCreateRequest.php" />
@@ -345,12 +348,12 @@
       <workItem from="1522042946723" duration="3370000" />
       <workItem from="1522141895282" duration="1726000" />
       <workItem from="1522219846258" duration="9815000" />
-      <workItem from="1522303521641" duration="15208000" />
+      <workItem from="1522303521641" duration="15416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70545000" />
+    <option name="totallyTimeSpent" value="70753000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
