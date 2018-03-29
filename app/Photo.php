@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Photo extends Model
 {
 
-    protected $uploads = '../images/';
+    protected $uploads = 'http://localhost/codehacking5.2.29/public/images/';
 
 
 
